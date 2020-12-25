@@ -3,7 +3,7 @@
     "promptValues": {
       "packageName": "co.softmanager"
     },
-    "jhipsterVersion": "6.10.5",
+    "jhipsterVersion": "6.10.3",
     "applicationType": "monolith",
     "baseName": "softmanager",
     "packageName": "co.softmanager",
