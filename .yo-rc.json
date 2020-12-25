@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "co.softmanager"
+    },
+    "jhipsterVersion": "6.10.3",
+    "applicationType": "monolith",
+    "baseName": "softmanager",
+    "packageName": "co.softmanager",
+    "packageFolder": "co/softmanager",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MWVlYTgxOTRjZTY2MjYzYzgwNDA5ZmI3NGRlMTlkOThjM2I2NTU2YWMyYjliZTU4ZTVmODc2ZWNkZmEwMzM1YWU5ZDlhYjM4ZmExZTZhNWRiOTUzNzcwNjY0YzhjMzNhYWFlOWM3OWZiNzI1YzAxOGViMTkxNzBkNjQwMTkyZDg=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "sandstone",
+    "clientThemeVariant": "dark",
+    "creationTimestamp": 1608900263618,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
